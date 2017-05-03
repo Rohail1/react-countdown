@@ -1,0 +1,18 @@
+.App {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 10%;
+}
+
+.App-title {
+    font-size: 50px;
+}
+
+.App-Days, .App-Minutes, .App-Hours, .App-Seconds {
+    display: inline;
+}
+
+.Dealine-input {
+    font-size: 25px;
+    margin: 5px;
+}
